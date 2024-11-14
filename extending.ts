@@ -6,7 +6,7 @@ interface Bear extends Animal {
   honey: boolean;
 }
 
-const bear = getBear();
+/* const bear = getBear();
 bear.name;
-bear.honey;
+bear.honey; */
         
